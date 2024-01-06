@@ -23,10 +23,10 @@
 # Posts
 
 ### Get user's posts by query id
-[![](/assets/img_6.png)](https://github.com/Aquamoris/REST-API/assets/102398971/291c14ca-dad4-4266-aac0-e0e768113071)
+![(/assets/img_6.png)](https://github.com/Aquamoris/REST-API/assets/102398971/291c14ca-dad4-4266-aac0-e0e768113071)
 
 ### Create new user's post
-[![](/assets/img_7.png)](https://github.com/Aquamoris/REST-API/assets/102398971/ebe2a284-ba2b-4c86-9932-f7f46f87d5e0)
+![(/assets/img_7.png)](https://github.com/Aquamoris/REST-API/assets/102398971/ebe2a284-ba2b-4c86-9932-f7f46f87d5e0)
 
 ### Check new posts by user id
-[![](/assets/img_8.png)](https://github.com/Aquamoris/REST-API/assets/102398971/a72a5e9a-29fe-4506-91c6-50cc3820e0ab)
+![(/assets/img_8.png)](https://github.com/Aquamoris/REST-API/assets/102398971/a72a5e9a-29fe-4506-91c6-50cc3820e0ab)
